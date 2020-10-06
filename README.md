@@ -1,3 +1,2 @@
 # test
-just test
-Learn how to use gitHub.
+Learn LDA, and run the algorithm.
